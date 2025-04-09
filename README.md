@@ -1,1 +1,1 @@
-# JWTExample
+# JWT
